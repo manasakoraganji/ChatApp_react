@@ -1,5 +1,5 @@
 # ChatApp using ReactJS
-This is a fully functional & stunning & responsive ChatApp using `ReactJS`
+This is a fully functional & stunning & responsive ChatApp using `ReactJS`,
 
 As an aspiring developer, I have created a fully responsive and visually stunning chatApp, The design showcases my passion for UI development and attention to detail.
 
