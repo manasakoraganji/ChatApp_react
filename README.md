@@ -26,23 +26,23 @@ Implementer @ feature where users can find available users ✅
 
 3) The like feature enables users to appreciate and acknowledge different perspectives.
 
-![pic 003](https://github.com/manasakoraganji/ChatApp_react/assets/95481269/7203203c-2f42-4038-8cdb-94aad4e1fdea)
+![pic 003](https://github.com/manasakoraganji/ChatApp_react/assets/93783719/4d2aef5e-8fda-4f9e-b623-01903600aa20)
 
 4) Each message includes the number of likes, the username, and the timestamp.
 
-![pic 004](https://github.com/manasakoraganji/ChatApp_react/assets/95481269/8cb5b0e6-187d-4207-8337-a4411c51fdad)
+![pic 004](https://github.com/manasakoraganji/ChatApp_react/assets/93783719/963ea177-0dc9-4cfc-9719-076c0f408ed9)
 
 5) The "@" feature allows users to easily identify and mention specific individuals from a list of users.
 
-![pic 005](https://github.com/manasakoraganji/ChatApp_react/assets/95481269/bb2b0368-7955-4179-b9a4-fe7f3ce2bee9)
+![pic 005](https://github.com/manasakoraganji/ChatApp_react/assets/93783719/97119b08-2613-4be6-977d-e18ba03b199d)
 
 6) The "@" feature facilitates seamless communication and enables users to acknowledge and tag others based on their opinions.
 
-![pic 007](https://github.com/manasakoraganji/ChatApp_react/assets/95481269/39b51aeb-d746-453e-a9b7-8d0cebdd16dd)
+![pic 006](https://github.com/manasakoraganji/ChatApp_react/assets/93783719/ffd26bb6-7981-4767-8332-6146bb3a240d)
 
 7) This is the complete view of the ChatApp, providing a comprehensive and visually appealing interface.
 
-![pic 008](https://github.com/manasakoraganji/ChatApp_react/assets/95481269/c7037b8c-68ee-4535-ad20-9e2c9f21a6a3)
+![pic 007](https://github.com/manasakoraganji/ChatApp_react/assets/93783719/53a4f303-d557-4499-9e42-b221ea2defee)
 
 8) ChatApp is fully responsive, ensuring users can communicate effectively across various devices.
 
