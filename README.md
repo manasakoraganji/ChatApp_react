@@ -6,15 +6,15 @@ As an aspiring developer, I have created a fully responsive and visually stunnin
 Check from here - https://manasa-extraspace.netlify.app
 
 ### Features:
-Implemented chatbox whenever a user enters context and hits enter, then respective message rendered by the message thread ✅
+Implemented `chatbox` whenever a user enters context and hits enter, then respective message rendered by the `message thread` ✅
 
-Implemented message thread by randomly filtering given users_list including time with hours and minutes ✅
+Implemented message thread by randomly filtering given `users_list` including time with `hours and minutes` ✅
 
-Implemented unique likes for each and every message ✅
+Implemented `unique likes` for each and every message ✅
 
-Implemented emoji feature, then users can interact with more fun and informative ✅
+Implemented `emoji feature`, then users can interact with more fun and informative ✅
 
-Implementer @ feature where users can find available users ✅
+Implementer `@ feature` where users can find available users ✅
 
 ### Detailed explanation about the assignment:
 
