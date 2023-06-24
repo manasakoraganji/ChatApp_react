@@ -38,6 +38,12 @@
   justify-content: space-between;
 }
 
+.no-chat-img {
+  height: 300px;
+  width: 300px;
+  margin-bottom: 40px;
+}
+
 .chatapp-inbox-header {
   height: 10vh;
   background-color: #3879f2;
@@ -155,10 +161,71 @@
   background-color: #bfbfbf;
   color: #000;
   font-weight: bold;
+  cursor: pointer;
 }
 .user-list {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 768px) {
+  .chatapp-header {
+    font-size: 22px;
+  }
+  .chatapp-header-info {
+    font-size: 16px;
+  }
+  .chatapp-inbox-container {
+    max-width: 360px;
+  }
+  .chatapp-inbox-header {
+    height: 8vh;
+    background-color: #3879f2;
+  }
+  .inbox-header-info {
+    color: #fff;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: left;
+    padding: 18px 14px;
+  }
+
+  .input {
+    max-width: 68%;
+    font-size: 14px;
+  }
+
+  .chatapp-send-button {
+    padding: 8px 12px;
+    font-size: 16px;
+  }
+  .message {
+    text-align: right;
+  }
+  .message-text {
+    overflow: auto;
+  }
+  .no-chat-img {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 25px;
+  }
+  .no-chat-info {
+    font-size: 16px;
+    color: #909cad;
+    margin-bottom: 10px;
+  }
+  .input-container {
+    border: 1px solid red;
+    flex: 1;
+    margin: 0px 8px 0px 0px;
+    border: 1px solid #bfbfbf;
+    border-radius: 10px;
+  }
+
+  .user-list-item {
+    padding: 4px 8px;
+    margin: 4px;
+  }
 }
