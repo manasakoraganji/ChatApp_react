@@ -100,7 +100,7 @@ const ChatApp = () => {
             {" "}
             {messages.length === 0
               ? "Unlock insights. Chat on!"
-              : "Grateful for connecting with you 😀"}
+              : "Grateful for connecting with you..."}
           </h3>
         </div>
         {emojiPicker && (
@@ -109,7 +109,7 @@ const ChatApp = () => {
         <div className="chatapp-messages">
           {messages.length === 0 ? (
             <div className="no-chat-container">
-           <img
+              <img
                 src="https://assets.ccbp.in/frontend/react-js/nxt-watch-failure-view-light-theme-img.png"
                 alt="no-chat"
                 className="no-chat-img"
