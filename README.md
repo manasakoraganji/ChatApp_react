@@ -1,6 +1,8 @@
 # ChatApp using ReactJS
 This is a fully functional & clean & beautiful & responsive & engaging ChatApp using `ReactJS`
 
+As an aspiring developer, I have created a fully responsive and visually stunning chatApp, The design showcases my passion for UI development and attention to detail.
+
 Check from here - https://manasa-extraspace.netlify.app
 
 ### Features:
@@ -50,8 +52,7 @@ Implementer @ feature where users can find available users ✅
 
 ![pic 010](https://github.com/manasakoraganji/ChatApp_react/assets/95481269/8b987b85-b8d3-419d-b47a-2c6f2005d5c7)
 
-
-As an aspiring developer, I have created a fully responsive and visually stunning chatApp, The design showcases my passion for UI development and attention to detail. 
+ 
 I am excited to present this clean and beautiful ChatApp, which offers an engaging user experience, With its intuitive interface and interactive features such as emojis, likes, and user mentions, this ChatApp truly stands out. 
 
 I am eager to discuss how I can contribute my skills and enthusiasm to your team, as I believe we can achieve great things together.
