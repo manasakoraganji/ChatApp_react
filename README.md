@@ -1,5 +1,5 @@
 # ChatApp using ReactJS
-This is a fully functional & clean & beautiful & responsive & engaging ChatApp using ReactJS
+This is a fully functional & clean & beautiful & responsive & engaging ChatApp using `ReactJS`
 
 Check from here - https://manasa-extraspace.netlify.app
 
