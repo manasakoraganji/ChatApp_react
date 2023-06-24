@@ -1,7 +1,7 @@
-### ChatApp using ReactJS
+# ChatApp using ReactJS
 This is a fully functional & clean & beautiful & responsive & engaging ChatApp using ReactJS
 
-## Features:
+### Features:
 -Implemented chatbox whenever user enter context and hit enter, then respective message render by the message thread ✅
 -Implemented message thread by randomly filtered given users_list including time with hours and minutes ✅
 -Implemented unique likes for each and every message ✅
