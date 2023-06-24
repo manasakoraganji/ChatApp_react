@@ -4,7 +4,7 @@ This is a fully functional & clean & beautiful & responsive & engaging ChatApp u
 Check from here - https://manasa-extraspace.netlify.app
 
 ### Features:
-Implemented chatbox whenever user enters context and hits enter, then respective message rendered by the message thread ✅
+Implemented chatbox whenever a user enters context and hits enter, then respective message rendered by the message thread ✅
 
 Implemented message thread by randomly filtering given users_list including time with hours and minutes ✅
 
