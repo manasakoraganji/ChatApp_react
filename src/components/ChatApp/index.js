@@ -109,6 +109,11 @@ const ChatApp = () => {
         <div className="chatapp-messages">
           {messages.length === 0 ? (
             <div className="no-chat-container">
+           <img
+                src="https://assets.ccbp.in/frontend/react-js/nxt-watch-failure-view-light-theme-img.png"
+                alt="no-chat"
+                className="no-chat-img"
+              />
               <p className="no-chat-info">
                 No chat appearance! Let's chat with us...
               </p>
