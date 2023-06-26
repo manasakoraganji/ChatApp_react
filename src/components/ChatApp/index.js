@@ -89,7 +89,7 @@ const ChatApp = () => {
     <div className="chatapp-container">
       <h1 className="chatapp-header">
         Welcome to{" "}
-        <span className="header-company-glad">ExtraSpace Support</span>
+        <span className="header-company-glad">ExactSpace Support</span>
       </h1>
       <h2 className="chatapp-header-info">
         <u>We're honored to serve you</u>😊
